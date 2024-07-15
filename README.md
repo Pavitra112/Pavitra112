@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Banner](https://komarev.com/ghpvc/?username=Pavitra112&color=blue&style=flat-square)
+![Visitor Badge](https://komarev.com/ghpvc/?username=Pavitra112&color=blue&style=flat-square)
 
 ## 🌟 About Me
 
@@ -35,6 +35,9 @@ I'm an enthusiastic and dedicated intern with a passion for web development. I h
 - **MongoDB**: Managing NoSQL databases efficiently
 - **MySQL**: Working with relational databases
 
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pavitra112&theme=radical)
 
 ## 🌐 Find Me Around the Web
 
