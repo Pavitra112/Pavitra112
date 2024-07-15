@@ -89,7 +89,7 @@ I'm an enthusiastic and dedicated intern with a passion for web development. I h
 ## 📈 GitHub Readme Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavitra112" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavitra112&layout=compact&theme=radical" alt="GitHub Streak" />
 </p>
 ---
 
