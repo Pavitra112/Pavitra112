@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor Badge](https://komarev.com/ghpvc/?username=Pavitra112&color=blue&style=flat-square)
+![Visitor Badge](https://komarev.com/ghpvc/?username=Pavitra112&color=blue&style=plastic)
 
 ## 🌟 About Me
 
