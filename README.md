@@ -88,5 +88,5 @@ I'm an enthusiastic and dedicated intern with a passion for web development. I h
 
 ---
 
-![Footer Image](https://via.placeholder.com/1200x100.png?text=Thanks+for+visiting+my+profile!)
+<!-- ![Footer Image](https://via.placeholder.com/1200x100.png?text=Thanks+for+visiting+my+profile!) -->
 
