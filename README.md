@@ -86,6 +86,11 @@ I'm an enthusiastic and dedicated intern with a passion for web development. I h
   </a>
 </p>
 
+## 📈 GitHub Readme Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavitra112" alt="GitHub Streak" />
+</p>
 ---
 
 <!-- ![Footer Image](https://via.placeholder.com/1200x100.png?text=Thanks+for+visiting+my+profile!) -->
