@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile!)
+![GitHub Banner](https://komarev.com/ghpvc/?username=Pavitra112&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🌟 About Me
 
