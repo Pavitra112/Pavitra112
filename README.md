@@ -44,7 +44,7 @@ I'm an enthusiastic and dedicated intern with a passion for web development. I h
 - [LinkedIn](https://www.linkedin.com/in/pavitraben-usdadiya/)
 
 
-  ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavitra112&show_icons=true&theme=radical)
 
